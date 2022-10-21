@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\ssuet bscs\1st semester\programming fundamentals\lab\bscslabtasks\lab12_task02\source.cpp(34): warning C4101: 'accessionNumber': unreferenced local variable
+e:\ssuet bscs\1st semester\programming fundamentals\lab\bscslabtasks\lab12_task02\source.cpp(218): warning C4101: 'temp': unreferenced local variable
+  Lab12_Task02.vcxproj -> E:\SSUET BSCS\1st Semester\Programming Fundamentals\Lab\BSCSLabTasks\Debug\Lab12_Task02.exe
+  Lab12_Task02.vcxproj -> E:\SSUET BSCS\1st Semester\Programming Fundamentals\Lab\BSCSLabTasks\Debug\Lab12_Task02.pdb (Partial PDB)

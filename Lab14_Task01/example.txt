@@ -1,0 +1,6 @@
+This is dummy text file for testing
+Next Line of File example.txt
+Coding is Fun
+Talk is cheap Show me Code
+Lets Code
+Blockchain is an emerging technology

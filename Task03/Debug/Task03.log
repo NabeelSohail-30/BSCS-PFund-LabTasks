@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Task03.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+e:\ssuet bscs\1st semester\programming fundamentals\lab\bscslabtasks\task03\source.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\ssuet bscs\1st semester\programming fundamentals\lab\bscslabtasks\task03\source.cpp(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Task03.vcxproj -> E:\SSUET BSCS\1st Semester\Programming Fundamentals\Lab\BSCSLabTasks\Debug\Lab12_Task03.exe
+  Task03.vcxproj -> E:\SSUET BSCS\1st Semester\Programming Fundamentals\Lab\BSCSLabTasks\Debug\Lab12_Task03.pdb (Partial PDB)

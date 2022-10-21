@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\ssuet bscs\1st semester\programming fundamentals\lab\bscslabtasks\lab13_task02\source.cpp(24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\ssuet bscs\1st semester\programming fundamentals\lab\bscslabtasks\lab13_task02\source.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab13_Task02.vcxproj -> E:\SSUET BSCS\1st Semester\Programming Fundamentals\Lab\BSCSLabTasks\Debug\Lab13_Task02.exe
+  Lab13_Task02.vcxproj -> E:\SSUET BSCS\1st Semester\Programming Fundamentals\Lab\BSCSLabTasks\Debug\Lab13_Task02.pdb (Partial PDB)
